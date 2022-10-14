@@ -1,11 +1,12 @@
-#include <stdio.h>
-#include <unistd.h>
+#include<stdio.h>
 /**
- * main - Prints out the last part of a quote in the standard error.
- * Return: 1 if success.
- */
+* main - main body
+* write - used in place of print or puts
+*Return:1
+*/
+
 int main(void)
 {
-	write(2, "and that piece of art is useful - Dora Korpar, 2015-10-19\n", 58);
+	write(2, "that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 55);
 	return (1);
 }
