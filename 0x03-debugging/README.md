@@ -1,1 +1,1 @@
-comments out the line of code causing the infinite loop
+This program prints the largest of three integers.
