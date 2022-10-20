@@ -1,1 +1,1 @@
-displays if a given number is positive negative or zero
+comments out the line of code causing the infinite loop
